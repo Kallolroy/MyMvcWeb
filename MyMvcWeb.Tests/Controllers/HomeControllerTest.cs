@@ -21,7 +21,7 @@ namespace MvcApplication1.Tests.Controllers
             ViewResult result = controller.Index() as ViewResult;
 
             // Assert
-            Assert.AreEqual("This is test again  kallol roy xxxxxxx", result.ViewBag.Message);
+            Assert.AreEqual("This is test again  kallol roy", result.ViewBag.Message);
         }
 
         [TestMethod]
