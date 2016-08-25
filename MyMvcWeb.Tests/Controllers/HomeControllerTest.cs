@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MyMvcWeb.Controllers;
 
-namespace MvcApplication1.Tests.Controllers
+namespace MyMvcWeb.Tests.Controllers
 {
     [TestClass]
     public class HomeControllerTest

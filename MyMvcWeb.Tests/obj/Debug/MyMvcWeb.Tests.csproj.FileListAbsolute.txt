@@ -1,7 +1,3 @@
-D:\Test\MyMvcWeb\MyMvcWeb.Tests\obj\Debug\MyMvcWeb.Tests.csprojResolveAssemblyReference.cache
-D:\Test\MyMvcWeb\MyMvcWeb.Tests\bin\Debug\MvcApplication1.Tests.dll.config
-D:\Test\MyMvcWeb\MyMvcWeb.Tests\bin\Debug\MvcApplication1.Tests.dll
-D:\Test\MyMvcWeb\MyMvcWeb.Tests\bin\Debug\MvcApplication1.Tests.pdb
 D:\Test\MyMvcWeb\MyMvcWeb.Tests\bin\Debug\Microsoft.Data.Edm.dll
 D:\Test\MyMvcWeb\MyMvcWeb.Tests\bin\Debug\Microsoft.Data.OData.dll
 D:\Test\MyMvcWeb\MyMvcWeb.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
@@ -78,5 +74,9 @@ D:\Test\MyMvcWeb\MyMvcWeb.Tests\bin\Debug\ko\System.Spatial.resources.dll
 D:\Test\MyMvcWeb\MyMvcWeb.Tests\bin\Debug\ru\System.Spatial.resources.dll
 D:\Test\MyMvcWeb\MyMvcWeb.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
 D:\Test\MyMvcWeb\MyMvcWeb.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
-D:\Test\MyMvcWeb\MyMvcWeb.Tests\obj\Debug\MvcApplication1.Tests.dll
-D:\Test\MyMvcWeb\MyMvcWeb.Tests\obj\Debug\MvcApplication1.Tests.pdb
+D:\Test\MyMvcWeb\MyMvcWeb.Tests\obj\Debug\MyMvcWeb.Tests.csprojResolveAssemblyReference.cache
+D:\Test\MyMvcWeb\MyMvcWeb.Tests\bin\Debug\MyMvcWeb.Tests.dll.config
+D:\Test\MyMvcWeb\MyMvcWeb.Tests\bin\Debug\MyMvcWeb.Tests.dll
+D:\Test\MyMvcWeb\MyMvcWeb.Tests\bin\Debug\MyMvcWeb.Tests.pdb
+D:\Test\MyMvcWeb\MyMvcWeb.Tests\obj\Debug\MyMvcWeb.Tests.dll
+D:\Test\MyMvcWeb\MyMvcWeb.Tests\obj\Debug\MyMvcWeb.Tests.pdb

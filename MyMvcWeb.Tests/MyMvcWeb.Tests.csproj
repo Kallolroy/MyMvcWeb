@@ -9,8 +9,8 @@
     <ProjectGuid>{165ABBD7-A413-4D67-9578-9CD719F62A0D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MvcApplication1.Tests</RootNamespace>
-    <AssemblyName>MvcApplication1.Tests</AssemblyName>
+    <RootNamespace>MyMvcWeb.Tests</RootNamespace>
+    <AssemblyName>MyMvcWeb.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
