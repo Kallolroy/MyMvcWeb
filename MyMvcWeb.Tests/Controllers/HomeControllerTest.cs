@@ -21,7 +21,7 @@ namespace MyMvcWeb.Tests.Controllers
             ViewResult result = controller.Index() as ViewResult;
 
             // Assert
-            Assert.AreEqual("This is test", result.ViewBag.Message);
+            Assert.AreEqual("This is test kallol", result.ViewBag.Message);
             //Assert.AreEqual("This is test", "This is test");
         }
 
